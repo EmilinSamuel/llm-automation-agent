@@ -4,3 +4,4 @@ requests
 python-dotenv
 openai
 scikit-learn
+beautifulsoup4
