@@ -7,4 +7,3 @@ scikit-learn
 beautifulsoup4
 markdown
 Pillow
-sqlite3
